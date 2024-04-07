@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stylish Page</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+       .container {
+            width: 50%;
+            margin: 0 auto;
+            text-align: center;
+            padding: 50px 0;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #446688;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+            font-size: 3em;
+            margin-bottom: 30px;
+        }
+       .subtitle {
+            color: #666;
+            font-size: 1.2em;
+            margin-bottom: 50px;
+        }
+       .button {
+            display: inline-block;
+            background-color: #446688;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-top: 30px;
+            transition: background-color 0.2s ease-in-out;
+        }
+       .button:hover {
+            background-color: #334d66;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ameen Khan 211P025</h1>
+        <p class="subtitle">Rizvi College of Engineering</p>
+    </div>
+</body>
+</html>
